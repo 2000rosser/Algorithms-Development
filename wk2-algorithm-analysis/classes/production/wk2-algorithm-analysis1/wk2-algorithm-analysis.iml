@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file:///Users/mjm/Dropbox/UCD/teaching/UCD_COMPSCI/Algorithms_2021/gitHub/comp20290-algorithms-2021/Comp20290-Algorithms-2021/wk2-algorithm-analysis/helper/algs4.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="algs4.jar">
+        <CLASSES>
+          <root url="file:///Users/mjm/Dropbox/UCD/teaching/UCD_COMPSCI/Algorithms_2021/gitHub/comp20290-algorithms-2021/Comp20290-Algorithms-2021/wk2-algorithm-analysis/helper/algs4.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
